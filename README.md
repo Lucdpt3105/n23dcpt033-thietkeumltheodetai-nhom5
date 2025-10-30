@@ -39,6 +39,6 @@
 ### Câu 3: Thiết kế sơ đồ trạng thái (State Diagram)
 
 - **Sơ đồ lớp (Câu 3)** ![Sơ đồ trạng thái - Câu 3](https://github.com/Lucdpt3105/n23dcpt033-thietkeumltheodetai-nhom5/blob/9cbb922fc60f6cd5238898595b509efba6e6a83a/Cau3/Statediagram%20(1).jpg)
-- **Sơ đồ trạng thái (Câu 3)** ![Sơ đồ trạng thái - Câu 3](images/cau3_state.png)
+- **Sơ đồ trạng thái (Câu 3)** ![Sơ đồ trạng thái - Câu 3](https://github.com/Lucdpt3105/n23dcpt033-thietkeumltheodetai-nhom5/blob/44f28c12811f705a48c9ac7bb5f07ed62adde412/Cau3/Statediagram%20(1).jpg)
 
 ---
